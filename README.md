@@ -1,5 +1,12 @@
 ### Hola soy Byron Urizar 👋
 
+Bienvenido a mi perfil de github
+
+Soy desarrollador de Guatemala, apasionado por aprender.
+
+## ⚡️Skills
+
+
 <!--
 **byronurizar/byronurizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
