@@ -5,6 +5,13 @@ Bienvenido a mi perfil de github
 Soy desarrollador de Guatemala, apasionado por aprender.
 
 ## ⚡️Skills
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/html5.png" width="14"> HTML <br>
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/css.jpg" width="12"> CSS <br>
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/js.png" width="12"> Javascript <br>
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/nodejs.png" width="12"> NodeJS <br>
+
+## 📚Studying
+→ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/react.png" width="12"> React JS <br>
 
 
 <!--
