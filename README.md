@@ -9,6 +9,9 @@ Soy desarrollador de Guatemala, apasionado por aprender.
 ✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/css.jpg" width="12"> CSS <br>
 ✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/js.png" width="12"> Javascript <br>
 ✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/nodejs.png" width="12"> NodeJS <br>
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/C#.png" width="12"> C# <br>
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/netcore.png" width="12"> .NET Core <br>
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/sqlserver.png" width="12"> Sql Server <br>
 
 ## 📚Studying
 → <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/react.png" width="12"> React JS <br>
