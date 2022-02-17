@@ -12,9 +12,10 @@ Soy desarrollador de Guatemala, apasionado por aprender.
 ✓ <img src="https://docs.microsoft.com/es-es/windows/images/csharp-logo.png" width="12"> C# <br>
 ✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/netcore.png" width="12"> .NET Core <br>
 ✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/sql.jpg" width="12"> SQL <br>
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/react.png" width="12"> React JS <br>
 
 ## 📚Studying
-→ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/react.png" width="12"> React JS <br>
+✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/react.png" width="12"> Python <br>
 
 
 <!--
