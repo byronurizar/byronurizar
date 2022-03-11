@@ -15,7 +15,7 @@ Soy desarrollador de Guatemala, apasionado por aprender.
 ✓ <img src="https://github.com/byronurizar/byronurizar/blob/master/.github/react.png" width="12"> React JS <br>
 
 ## 📚Studying
-✓ <img src="https://pngset.com/images/logo-python-icon-python-logo-number-symbol-text-alphabet-transparent-png-2507186.png" width="12"> Python <br>
+✓ <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="12"> Python <br>
 
 
 <!--
